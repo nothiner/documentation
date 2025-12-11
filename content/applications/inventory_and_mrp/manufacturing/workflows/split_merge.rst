@@ -6,6 +6,7 @@ In Odoo *Manufacturing*, it is possible to create manufacturing orders for a sin
 or multiple units of the same item. In some cases, it may be necessary to split a manufacturing
 order that contains multiple units into two or more orders, or to merge two or more orders into a
 single order.
+在Odoo *制造*
 
 .. important::
    A manufacturing order can only contain one unit of a product, or multiple units of a single

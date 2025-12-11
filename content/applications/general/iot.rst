@@ -23,6 +23,12 @@ The following IoT systems are supported:
    - It is also possible to create a Windows Virtual Machine on a MacOS/Linux computer. However,
      this option is not supported by Odoo, and no troubleshooting assistance will be provided.
 
+.. important::
+   Never expose your IoT system directly to the Internet.
+
+   IoT Systems are designed to provide your database an access to your local network,
+   exposing them to the Internet would create a security risk.
+
 .. _iot/iot/iot-subscription:
 
 IoT box subscription
